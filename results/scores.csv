@@ -1,0 +1,4 @@
+model,precision,recall,f1
+logistic_regression,0.328,0.836,0.471
+random_forest,0.412,0.728,0.526
+gradient_boosting,0.673,0.433,0.527
